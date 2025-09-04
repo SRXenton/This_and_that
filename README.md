@@ -1,2 +1,9 @@
 # This_and_that
-Open information for everyone
+
+This repo is a collection of information about games I play.
+
+Everyone can use this Infomations
+
+
+Games:
+- SWGR
