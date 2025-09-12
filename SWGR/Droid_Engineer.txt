@@ -1,0 +1,54 @@
+Droid Enginner:
+
+Commands and Abilities Granted
+    Novice:
+        Component - Droid Storage Compartment
+        Component - Droid Motive System
+        Component - Manipulator Armor
+        Component - Diagnostic Circuit
+        Component - Capacitor Disharge Unit
+        Component - Redundant Power Supply
+        Component - Repair Unit Casing
+
+        Level 1 Droid Medical Module
+
+        Module - Effect Avian
+        Module - Effect Foam
+        Module - Playback
+        Module - Personality - Stupid Droid Chip
+        Module - Droid Item Storage 1
+        Module - Droid Data 1
+        Module - Droid Armor 1
+
+        Chassis - 8D8 Droid
+
+        Deed for: 8D8 Droid
+        Deed for: MSE Droid
+
+        Droid Decal Kit
+        Droid Customization Kit
+        Unprogrammed Droid Command Module
+        Enzyme Centrifuge Burst Piston
+
+        v1 Flight Computer
+
+    Intermediate Droid:
+        Production:
+            Level 2 Droid Medical Module
+
+            Chassis - Lin Demolitionmech Droid
+
+            Deed for: LIN Demolitionmech Droid
+
+            Module - Creature Harvest
+            Module - Effect - Electric Fog
+            Module - Merchant Barker
+            Module - Droid Structure Maintenance 1
+            Module - Crafting Station - Weapons
+            Module - Personality - Sarcastic Droid Chip
+            Module - Droid Item Storage 2
+            Module - Droid Data 2
+
+
+
+
