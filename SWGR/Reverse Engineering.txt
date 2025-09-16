@@ -21,3 +21,7 @@ Vocabular	                    +	Aeromagnifier	                =	Ranged General M
 Burnt Out Droid Motor	        +	Worn Servo Joint	            =	Ranged General Modifier Bit
 Burnt Out Droid Motor	        +	Self Analysis Circuit	        =	Ranged General Modifier Bit
 Data Housing	                +	Worn Servo Joint	            =	Ranged General Modifier Bit
+Burnt Out Droid Motor	        +	Weapon Scope	                =	Rifle Accuracy Modifier Bit
+Burnt Out Droid Motor	        +	Aeromagnifier	                =	Ranged General Modifier Bit
+Burnt Out Droid Motor	        +	Unpowered Memory Encryptor	    =	Ranged General Modifier Bit
+Weapon Scope	                +	Aeromagnifier	                =	Defense General Modifire Bit
