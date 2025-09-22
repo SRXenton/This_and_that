@@ -2,77 +2,81 @@ Loot                            JD=Sell Junkdealer
                                 Destroy = No RE, No Sellable
                                 x = ReverseEng-able
 
-Advanced Fortitude Stim x3	    JD
-Advanced Perception Scope x3	JD
-Aeromagnifier	                x
-Agitator Motor	                Destroy
-	
-Ambush Detector	                x
-	
+Advanced Fortitude Stim x3	            JD
+Advanced Perception Scope x3	        JD
+Aeromagnifier (L)	                    x
+Agitator Motor	                        Destroy
+Ambush Detector	                        x
 	
 	
-Barrel	                        x
-Blue Wiring	                    Destroy
-Broken Hand-Held Viewscreen	    JD
-Burnt Out Droid Motor	        x
+Barrel	                                x
+Blue Wiring	                            Destroy
+Broken Hand-Held Viewscreen	            JD
+Burnt Out Droid Motor	                x
 	
-Chassis Blueprint	            x
-Cheap Copper Battery	        Destroy
-	
+Chassis Blueprint	                    x
+Cheap Copper Battery	                Destroy
 Cold Resistant Ubese Armor Jacked of the Gurrcat	x
 	
-Data Hausing	                x
-Demagnetized Datadisk	        x
+Data Hausing	                        x
+Demagnetized Datadisk	                x
 	
-Deprecated Droid Software	    x
-DH17 Short Carbine	            JD
-Differential Regulator	        x
-DLT20a Rifle	                JD
-Dress Shoes of Luck	            x
-	
-	
-Explosive Dud	                x
-Eyes of Mesra	                JD
-	
-Hyperdrive Unit	                x
+Deprecated Droid Software	            x
+DH17 Short Carbine	                    JD
+Differential Regulator	                x
+DLT20a Rifle	                        JD
+Dress Shoes of Luck	                    x
 	
 	
-Improved Fortitude Stim	        JD
-Impulse Detector	            x
-Ithorian Cargo Jacked of Stamina	x
+Explosive Dud	                        x
+Eyes of Mesra	                        JD
 	
-Mark II Circuit Board	        x
-Mark II Vocabulation Module	    x
-Medical Device	                x
-Motor	                        x
+Hyperdrive Unit	                        x
 	
 	
-Paintings	                    Destroy
-Poster	                        Destroy
-Power Converter	                x
-Power Crystal	                JD
-Power Supply	                x
-Pulverizer	                    Destroy
+Improved Fortitude Stim	                JD
+Impulse Detector	                    x
+Ithorian Cargo Jacked of Stamina	    x
 	
-Rapid Program Modul	            x
+Ledger	                                x
 	
-Red Wiring	                    Destroy
+Magnetic Burner	                        JD
+Mark II Circuit Board	                x
+Mark II Vocabulation Module         	x
+Medical Device	                        x
+Motor	                                x
 	
-Self Analysis Circuit	        x
-Self Service Circuit	        x
-Small Power Motor	            Destroy
-Software Modul	                x
-Toolkit	                        JD
-Two Pocket Belt of Quickness	x
-Unidentified Chemicals	        x
-Unidentified Serum Vial	        JD
-Unpowered Memory Encryptor	    x
+Outdated Aeromagnifier	                x
+	
+Paintings	                            Destroy
+Poster	                                Destroy
+Power Converter	                        x
+Power Crystal	                        JD
+Power Supply	                        x
+Pulverizer	                            Destroy
+	
+Rapid Program Modul	                    x
+Red Wiring	                            Destroy
 	
 	
-Vocabular	                    x
+Self Analysis Circuit	                x
+Self Service Circuit	                x
+Shield Module	                        x
+Small Power Motor	                    Destroy
+Software Modul	                        x
+
+Toolkit	                                JD
+Two Pocket Belt of Quickness	        x
+
+Unidentified Chemicals	                x
+Unidentified Serum Vial	                JD
+Unpowered Memory Encryptor	            x
 	
 	
-Weapon Scope	                x
-Week Copper Battery	            x
-Wire Element	                x
-Worn Servo Joint	            x
+Vocabular	                            x
+	
+	
+Weapon Scope	                        x
+Week Copper Battery	                    x
+Wire Element	                        x
+Worn Servo Joint	                    x
